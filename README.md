@@ -1,0 +1,2 @@
+# LangChain
+This repo is made and maintained by [me](https://twitter.com/Siddharth1India) for reference of my team. This is just standard methods of usage of things and should not be taken as standard project. I am just playing with LangChain docs here.
